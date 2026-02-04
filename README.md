@@ -117,10 +117,10 @@ consciousness-structured-encoding/
 ├── src/
 │   ├── extended_dictionary.py                   # Main dictionary (1,316 concepts)
 │   ├── octonion.py                              # 8D/16D mathematical operations
-│   └── real_dictionary_analysis.py              # Superposition analysis
+│   └── dictionary_analysis.py              # Superposition analysis
 │
 ├── figures/
-│   └── real_dictionary_analysis.png             # Visualization of results
+│   └── dictionary_analysis.png             # Visualization of results
 │
 └── docs/
     ├── CONSCIOUSNESS_STRUCTURED_ENCODING.md     # Theoretical overview
